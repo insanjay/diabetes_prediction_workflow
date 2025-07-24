@@ -34,12 +34,11 @@ Problem Statement: Diabetes is a growing global health concern, often going undi
 
 ## 📊 Dataset Overview
 
-- **Source:** [Kaggle – Diabetes Prediction Dataset]([https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?))
-- **Rows:** 2,53,000+
+- **Source:** [Kaggle – Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+- **Rows:** 253,000+
 - **Target Variable:** `diabetes` (0 = No, 1 = Yes)
 - **Key Features:** BMI, blood pressure, smoking status, glucose level, physical activity, age, etc.
 
----
 
 ## ✅ Project Workflow (v1)
 
