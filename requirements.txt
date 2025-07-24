@@ -1,0 +1,7 @@
+matplotlib
+ucimlrepo
+pandas
+scikit-learn
+xgboost
+numpy
+joblib
