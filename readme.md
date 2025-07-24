@@ -89,14 +89,14 @@ Install with:
 pip install -r requirements.txt
 ```
 
----
-## Note
-    This repo is not for workflow simulation, but rather for understanding the workflow that used to build the model,
-    the model is now a working app built using streamlit currently live on the link below using the Streamlit.
+## 📌 Note
 
-    [App repo link](https://github.com/insanjay/diabetes_prediction/tree/master)
-    [Live project link](https://heartsafe.streamlit.app/)
----
+This repository is not intended for full workflow simulation but rather to understand the workflow used to build the model.
+
+The model is now deployed as a working app built using **Streamlit** and is currently live.
+
+- 🔗 **App Repository:** [https://github.com/insanjay/diabetes_prediction](https://github.com/insanjay/diabetes_prediction)
+- 🚀 **Live App:** [https://heartsafe.streamlit.app/](https://heartsafe.streamlit.app/)
 
 ## 👨‍💻 Author
 
